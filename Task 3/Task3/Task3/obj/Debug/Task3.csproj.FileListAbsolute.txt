@@ -1,0 +1,10 @@
+D:\BSTU\Courses\Task 3\Task3\Task3\bin\Debug\Task3.exe.config
+D:\BSTU\Courses\Task 3\Task3\Task3\bin\Debug\Task3.exe
+D:\BSTU\Courses\Task 3\Task3\Task3\bin\Debug\Task3.pdb
+D:\BSTU\Courses\Task 3\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\BSTU\Courses\Task 3\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\BSTU\Courses\Task 3\Task3\Task3\obj\Debug\Task3.exe
+D:\BSTU\Courses\Task 3\Task3\Task3\obj\Debug\Task3.pdb
+D:\BSTU\Courses\Task 3\Task3\Task3\obj\Debug\Task3.csproj.Up2Date
+D:\BSTU\Courses\Task 3\Task3\Task3\bin\Debug\ConsoleTables.dll
+D:\BSTU\Courses\Task 3\Task3\Task3\bin\Debug\ConsoleTables.pdb
